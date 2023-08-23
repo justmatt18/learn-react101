@@ -15,6 +15,9 @@ let items = ['a', 'b', 'c]
 OR
 
 {if items.length == 0 && <p>No Item Found!<p/>}
-
-
 ```
+
+Aug 22 - finished the video tutorial
+
+-   I learned about using props, adding datatype, passing props to the component.
+-   props are immutable while state is mutable and manage the data .
